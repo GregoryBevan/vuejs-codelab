@@ -1,6 +1,6 @@
-# devfest-vuejs
+# Vue js codelab
 
-> Vue.js codelab @DevFest
+> Vue.js codelab
 
 > You can find the slides at the root of the repository => 'vuejs-codelab.pdf'
 
